@@ -1,0 +1,27 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+Y
+)ProjectManager/ProjectManager/__init__.py,1\8\186b20575353eebaf480ba631f3e187698861ed8
+Y
+)ProjectManager/ProjectManager/settings.py,6\c\6cacbc16e415b7263381f2212ab181de718c37e2
+O
+ProjectManager/AppCoder/urls.py,2\4\2449feb0c141a2ca566a8b761283bb24643de9ee
+O
+ProjectManager/AppCoder/apps.py,5\c\5c83676ee20bffdb2f79389d072ad02b4105a857
+P
+ ProjectManager/AppCoder/admin.py,8\c\8c3054e24b3b1df926216e35088033b24136f218
+Q
+!ProjectManager/AppCoder/models.py,6\d\6d17ca3302a1d9642300d5724e87e4bff8989f9c
+b
+2ProjectManager/AppCoder/migrations/0001_initial.py,3\8\389520caf57b22bf7f2a520d71f9a3357a09fa2f
+U
+%ProjectManager/ProjectManager/wsgi.py,b\1\b1b2be1494b6a652822e1724c44cdaf4904bcf8d
+P
+ ProjectManager/AppCoder/views.py,8\d\8dd83450cd6461fd0fc1d4315b29dc2db883ab08
+^
+.ProjectManager/templates/AppCoder/courses.html,3\8\387cfb7682a6b88281a3cb56b63de99b18a4688c
+R
+"ProjectManager/templates/base.html,3\f\3f9bdbc8445a7e35dcf9e80fcec17ebb46863dd0
+U
+%ProjectManager/ProjectManager/urls.py,2\3\238ec04fea67c4f752fcc40e23cb2b78a1904e4d
